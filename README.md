@@ -12,15 +12,15 @@ The Style store wants to create an annual sales report for 2022. So that, the ow
 
 ##Questions(KPIs)
 
-compare the sales and orders using single chart
-which month got the highest sales and orders
-who purchased more men or women in 2022
-what are different order status in 2022
-list top 10 states contributing to the  sales
-relation between age and gender based on number of order
-which channel is ontributing to maximum sales
-highest selling category? 
-Category Vs Quantity- comparision
+-compare the sales and orders using single chart
+-which month got the highest sales and orders
+-who purchased more men or women in 2022
+-what are different order status in 2022
+-list top 10 states contributing to the  sales
+-relation between age and gender based on number of order
+-which channel is ontributing to maximum sales
+-highest selling category? 
+-Category Vs Quantity- comparision
 
 dashboa<rd Interaction <a href="https://github.com/jeel018makwana/Data-Analysis-Dashboard-using-Excel/blob/main/Style%20Store%20Dashboard%20img.png">View Dashboard</a>
 
